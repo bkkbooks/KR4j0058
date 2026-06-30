@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0058/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 㫁腸詞紀畧淑真淛中海寧人文公姪女也文章幽豔才色娟麗實閨閤所罕見者因匹偶非倫弗遂素志賦㫁腸集十巻以自解臨安王唐佐為傳以述其始末呉中士大夫集其詩二百餘篇宛陵魏仲恭為之序
+  hash: sha256:c61ca64187867ca054d0e7e139628341115bbd428d73213e640e464ad277e04e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0058_WYG_000-1a, image: missing/missing}
+metadata:
+  title: 斷腸詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:55.687595'
+  juan_title: 紀畧
+  source:
+    repository: kanripo
+    path: KR4j0058/KR4j0058_000.txt
+hash: sha256:8f924fa58fba90c404c93796564ff4ac85242d6400c63a1b1bceaaec25497018

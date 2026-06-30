@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0058/krp/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斷腸詞跋淑真詩集膾炙海內久無其詩餘僅見二闋于草堂集又見一闋于十大曲中何落落如晨星也既獲斷腸詞一卷凡十有六調幸覩全豹矣先䦨拈出元夕詩詞以為白璧微瑕惜哉湖南毛晉識
+  hash: sha256:fc24333df33fe94d68b5d5697b7caa30d3e76c298984b9a7176d63f02de99545
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0058_WYG_002-1a}
+metadata:
+  title: 斷腸詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:48:55.687595'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4j0058/KR4j0058_002.txt
+hash: sha256:7f23b25a9aad2e76820a4c5f4675f597918e0b8fe575cf012e8204b2796032bf

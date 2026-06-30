@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR4j0058/WYG/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4j0058_WYG_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4j0058_WYG_000-1a01}
+  - {type: 'kr:newline', offset: 5, content: '
+
+      ', id: KR4j0058_WYG_000-bkkkrnewl2}
+  - {type: line-break, offset: 5, content: '', id: KR4j0058_WYG_000-1a02}
+  - {type: 'kr:newline', offset: 26, content: '
+
+      ', id: KR4j0058_WYG_000-bkkkrnewl3}
+  - {type: line-break, offset: 26, content: '', id: KR4j0058_WYG_000-1a03}
+  - {type: 'kr:newline', offset: 47, content: '
+
+      ', id: KR4j0058_WYG_000-bkkkrnewl4}
+  - {type: line-break, offset: 47, content: '', id: KR4j0058_WYG_000-1a04}
+  - {type: 'kr:newline', offset: 68, content: '
+
+      ', id: KR4j0058_WYG_000-bkkkrnewl5}
+  - {type: line-break, offset: 68, content: '', id: KR4j0058_WYG_000-1a05}
+  - {type: 'kr:newline', offset: 82, content: '
+
+      ', id: KR4j0058_WYG_000-bkkkrnewl6}
+  back: []
+hash: sha256:9260ca04b53de02ecfd9811a2936f36ca3dce82a310d645e27cd0f208d74fd63

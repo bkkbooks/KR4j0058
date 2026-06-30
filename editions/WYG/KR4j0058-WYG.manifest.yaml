@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR4j0058/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0058/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 斷腸詞
+  date: '2015-08-25 00:48:55.687595'
+  source:
+    repository: kanripo
+    path: KR4j0058
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0058_000-WYG.yaml, hash: 'sha256:8f924fa58fba90c404c93796564ff4ac85242d6400c63a1b1bceaaec25497018'}
+  - {seq: 1, filename: KR4j0058_001-WYG.yaml, hash: 'sha256:8247678088785c269d076de717129aa8ef9276d51a30820aa18edb1b3e60830d'}
+  - {seq: 2, filename: KR4j0058_002-WYG.yaml, hash: 'sha256:89fbac37b549ae2b6e5912b1fcc661351982cfc5a315e235b6e119512fffea86'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0058_000-WYG.markers.yaml, hash: 'sha256:9260ca04b53de02ecfd9811a2936f36ca3dce82a310d645e27cd0f208d74fd63'}
+  - {seq: 1, role: markers, filename: assets/KR4j0058_001-WYG.markers.yaml, hash: 'sha256:2d0e51eef1a3f499774eec97585dd8da8be2b5ec5090006942b2916f99669671'}
+  - {seq: 2, role: markers, filename: assets/KR4j0058_002-WYG.markers.yaml, hash: 'sha256:ca4860857fb95e511136588b1b95e7ada8c936cbc22df1c58bae38fb023b5909'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0058_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 82
+  label: 紀畧
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0058_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1469
+  label: 斷腸詞
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0058_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 79
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:ba0af03c2e82a8eadbe574c2fa568b9ba697b3bb495e7524db9f32813952ec5f
