@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 斷腸詞紀略淑真浙中海寧人文公姪女也文章幽豔才色娟麗實閨閣所罕見者因匹偶非倫弗遂素志賦斷腸集十卷以自解臨安王唐佐為傳以述其始末吳中士大夫集其詩二百餘篇宛陵魏仲恭為之序
-  hash: sha256:28a6168be93cbe55ac21291be993324bd1db453cb6e0f523a820b2ffe97d39f0
+  text: 㫁腸詞紀畧淑真淛中海寧人文公姪女也文章幽豔才色娟麗實閨閤所罕見者因匹偶非倫弗遂素志賦㫁腸集十巻以自解臨安王唐佐為傳以述其始末呉中士大夫集其詩二百餘篇宛陵魏仲恭為之序
+  hash: sha256:c61ca64187867ca054d0e7e139628341115bbd428d73213e640e464ad277e04e
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0058_WYG_000-1a, image: missing/missing}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0058/KR4j0058_000.txt
-hash: sha256:a920a39cea7c5eb101cb67a7683db4f3cb80b8a7736def8fcb0928427993dfbb
+hash: sha256:e6734a34e3d5089b399f03e1918ed32ea38f5c044e5be6037ada35ef54cb87bf
