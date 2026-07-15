@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 㫁腸詞跋淑真詩集膾炙海内久無其詩餘僅見二闋于草堂集又見一闋于十大曲中何落落如晨星也既獲㫁腸詞一巻凡十有六調幸覩全豹矣先䦨拈出元夕詩詞以為白璧微瑕惜哉湖南毛晉識
-  hash: sha256:b341d9e52b5570f7d012fbdedbe97754a9958d2fa1f6aa965b553d592def45c6
+  text: 斷腸詞跋淑真詩集膾炙海內久無其詩餘僅見二闋于草堂集又見一闋于十大曲中何落落如晨星也既獲斷腸詞一卷凡十有六調幸覩全豹矣先闌拈出元夕詩詞以為白璧微瑕惜哉湖南毛晉識
+  hash: sha256:fa0f657593c7584b530785e446dee61908b4fbc54242636eef310030c9ba5e5b
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0058_WYG_002-1a}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0058/KR4j0058_002.txt
-hash: sha256:fd394b4000efc56e1d4d7437917921cb3624abba92eab03362797e4223071bff
+hash: sha256:3716228b859052c9e3ad4a69dc17e13e092f2c7a112788e0a0a783239f508a49
